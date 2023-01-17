@@ -1,7 +1,6 @@
-# hello_world
+# Pokemon-App
 
-A new Flutter project created with https://flutlab.io
-
+In this project, we solved the bugs.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
